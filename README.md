@@ -13,7 +13,7 @@
 - applicationUrl2: Stripe を使っているサービスやプロダクトの公開 URL (必須・ない場合は`-`を入力)
 - applicationUrl３: Stripe を使っているサービスやプロダクトの公開 URL (必須・ない場合は`-`を入力)
 
-**　入力例**
+**入力例**
 
 ```csv
 Example co,https://example.com,Awesome Stripe developer agency,https://app1.example.com,https://app2.example.com,-
